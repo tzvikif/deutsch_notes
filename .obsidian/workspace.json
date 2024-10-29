@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "d7f509beb2dcad5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "771490dfc0efa37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff94b1e80009e611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Verb note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verb note"
+            }
+          },
+          {
+            "id": "b4a95a63a7bc4734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/Verben/Ankurbeln.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ankurbeln"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "349bc8da7fdaa080",
+    "type": "split",
+    "children": [
+      {
+        "id": "42aeba5c06d834e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe4675ec9a09b47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b36b9e91518388cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba13c331882d8bd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20e0b55ce0827d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "1643dc538d47c2c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0ba2d4f8ec63e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Verb note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Verb note"
+            }
+          },
+          {
+            "id": "f3b34ae624a0d192",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Verb note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Verb note"
+            }
+          },
+          {
+            "id": "73da4229ec7b626a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40cfe55f643ae79a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Verb note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Verb note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4a95a63a7bc4734",
+  "lastOpenFiles": [
+    "Input/Unterrichten",
+    "Input/NomenVerbVerbindungen",
+    "Welcome.md",
+    "Input/NomenVerbVerbindungen/Man legt Rechenschaft ab über etwas.md",
+    "Input/Begriffe/Eine Frage aufwerfen.md",
+    "Input/Verben/Ankurbeln.md",
+    "Templates/Verb note.md",
+    "Inbox",
+    "Input/Begriffe",
+    "Unbenannt",
+    "Templates",
+    "Input/Books",
+    "Input/Videos",
+    "Input/Verben",
+    "Input"
+  ]
+}
