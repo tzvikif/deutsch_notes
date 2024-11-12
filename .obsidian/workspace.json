@@ -4,39 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "771490dfc0efa37e",
+        "id": "ebcaab3d91eb8a79",
         "type": "tabs",
         "children": [
           {
-            "id": "ff94b1e80009e611",
+            "id": "ef41ebd89bbfed23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Verb note.md",
+                "file": "Input/NomenVerbVerbindungen/Bekannt geben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verb note"
+              "title": "Bekannt geben"
             }
           },
           {
-            "id": "b4a95a63a7bc4734",
+            "id": "9a4fd71449929108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/Verben/Ankurbeln.md",
+                "file": "Inbox/Andauern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ankurbeln"
+              "title": "Andauern"
+            }
+          },
+          {
+            "id": "fab1c35cd588aa2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Stam Verb Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stam Verb Template"
+            }
+          },
+          {
+            "id": "ebe114108dae83f2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verb note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Verb note"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verb note.md",
+                "file": "Inbox/Trauen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Verb note"
+              "title": "Outgoing links from Trauen"
             }
           },
           {
@@ -164,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +199,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4a95a63a7bc4734",
+  "active": "ebe114108dae83f2",
   "lastOpenFiles": [
+    "Inbox/Andauern.md",
+    "Inbox/Dauern.md",
+    "Input/NomenVerbVerbindungen/Bekannt geben.md",
+    "Inbox/Anhaltend.md",
+    "Templates/Stam Verb Template.md",
+    "Templates/Verb note.md",
+    "Inbox/Trauen.md",
+    "Inbox/Betrauen.md",
+    "Inbox/Zutrauen.md",
+    "Input/Verben/Ankurbeln.md",
+    "Inbox/Das Verhängnis.md",
+    "Inbox/Die Kulanz.md",
     "Input/Unterrichten",
     "Input/NomenVerbVerbindungen",
     "Welcome.md",
     "Input/NomenVerbVerbindungen/Man legt Rechenschaft ab über etwas.md",
     "Input/Begriffe/Eine Frage aufwerfen.md",
-    "Input/Verben/Ankurbeln.md",
-    "Templates/Verb note.md",
     "Inbox",
     "Input/Begriffe",
     "Unbenannt",

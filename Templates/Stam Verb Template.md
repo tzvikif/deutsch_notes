@@ -18,6 +18,10 @@ Tags:
 ## Synonyme
 
 
+
+## Präfix
+
+
 ## Konjugation
 
 
