@@ -245,7 +245,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -294,7 +294,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be378d9b26bd3e87",
+  "active": "9e1f7b8ff8ca3b97",
   "lastOpenFiles": [
     "Templates/Unterricht.md",
     "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md",
