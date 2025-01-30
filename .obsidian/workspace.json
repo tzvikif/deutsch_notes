@@ -22,91 +22,35 @@
             }
           },
           {
-            "id": "9a4fd71449929108",
+            "id": "19880d4ad4d20b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Andauern.md",
+                "file": "Inbox/einteilen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Andauern"
+              "title": "einteilen"
             }
           },
           {
-            "id": "2fb3ba749d675d28",
+            "id": "d5bc32b53bd24377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/die Fassade bröckelt.md",
+                "file": "Inbox/Redewendungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "die Fassade bröckelt"
-            }
-          },
-          {
-            "id": "da9b9b80ff9e67bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/in Fleisch und Blut übergegangen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "in Fleisch und Blut übergegangen"
-            }
-          },
-          {
-            "id": "96c791ef6d89a611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Stefan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stefan"
-            }
-          },
-          {
-            "id": "be378d9b26bd3e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EU-Gericht stärkt Hotels gegenüber Booking.com"
-            }
-          },
-          {
-            "id": "7198edea95cced38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Sich auf etwas acht geben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sich auf etwas acht geben"
+              "title": "Redewendungen"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md",
+                "file": "Inbox/einteilen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of EU-Gericht stärkt Hotels gegenüber Booking.com"
+              "title": "Graph of einteilen"
             }
           },
           {
@@ -294,35 +238,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e1f7b8ff8ca3b97",
+  "active": "19880d4ad4d20b4c",
   "lastOpenFiles": [
-    "Templates/Unterricht.md",
-    "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md",
+    "Inbox/Teilen.md",
+    "Inbox/zerteilen.md",
+    "Inbox/erteilen.md",
+    "Inbox/mitteilen.md",
+    "Inbox/aufteilen.md",
+    "Inbox/einteilen.md",
+    "Inbox/verteilen.md",
+    "Inbox/unterteilen.md",
+    "Inbox/zuteilen.md",
+    "Input/NomenVerbVerbindungen/Bekannt geben.md",
+    "Inbox/Andauern.md",
+    "Inbox/Redewendungen.md",
+    "Inbox/Sich auf etwas acht geben.md",
+    "Inbox/in Fleisch und Blut übergegangen.md",
     "Inbox/Stefan.md",
+    "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md",
+    "Templates/Unterricht.md",
     "Inbox/sich in etwas Acht nehmen.md",
     "Inbox/sich hüten.md",
     "Templates/Verb note.md",
-    "Inbox/Sich auf etwas acht geben.md",
-    "Inbox/in Fleisch und Blut übergegangen.md",
     "Inbox/die Fassade bröckelt.md",
     "Inbox/Aufrechterhalten.md",
     "Inbox/gewartet.md",
-    "Inbox/Andauern.md",
     "Templates/Stam Verb Template.md",
     "Inbox/Dauern.md",
-    "Input/NomenVerbVerbindungen/Bekannt geben.md",
     "Inbox/Anhaltend.md",
-    "Inbox/Trauen.md",
-    "Inbox/Betrauen.md",
-    "Inbox/Zutrauen.md",
-    "Input/Verben/Ankurbeln.md",
-    "Inbox/Das Verhängnis.md",
-    "Inbox/Die Kulanz.md",
     "Input/Unterrichten",
     "Input/NomenVerbVerbindungen",
-    "Welcome.md",
-    "Input/NomenVerbVerbindungen/Man legt Rechenschaft ab über etwas.md",
-    "Input/Begriffe/Eine Frage aufwerfen.md",
     "Inbox",
     "Input/Begriffe",
     "Unbenannt",
