@@ -1,17 +1,15 @@
 
-{{Date}} {{time}}
+02-02-2025 11:59
 
 
 Tags: #verb
 
-# {{Title}}
+# Stehen
 
 
 ## Bedeutung 1
 
-
-### Hinweise
-
+לעמוד
 
 ### Beispiel
 
@@ -20,6 +18,10 @@ Tags: #verb
 ## Synonyme
 
 
+
+## Präfix
+
+[[Widerstehen]]
 ## Konjugation
 
 

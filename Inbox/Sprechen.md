@@ -1,16 +1,14 @@
 
-{{Date}} {{time}}
+02-02-2025 12:07
 
 
-Tags: #verb
+Tags:
 
-# {{Title}}
+# Sprechen
 
 
 ## Bedeutung 1
 
-
-### Hinweise
 
 
 ### Beispiel
@@ -20,6 +18,10 @@ Tags: #verb
 ## Synonyme
 
 
+
+## Präfix
+
+[[Widersprechen]]
 ## Konjugation
 
 
