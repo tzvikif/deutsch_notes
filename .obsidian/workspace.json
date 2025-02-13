@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "Widerstehen"
             }
+          },
+          {
+            "id": "1501b59b80312750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/aufarbeiten.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aufarbeiten"
+            }
+          },
+          {
+            "id": "04708ecf6944a6d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Futur II.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Futur II"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Widerstehen.md",
+                "file": "Inbox/Futur II.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +236,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Widerstehen"
+              "title": "Graph of Futur II"
             }
           },
           {
@@ -253,12 +281,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "978626f5d6235711",
+  "active": "04708ecf6944a6d4",
   "lastOpenFiles": [
+    "Inbox/attachments/Futur II.png",
+    "Inbox/attachments",
+    "Inbox/aufarbeiten.md",
+    "Inbox/Futur II.md",
+    "Inbox/Arbeiten.md",
+    "Inbox/ausarbeiten.md",
+    "Inbox/Widerstehen.md",
     "Templates/Verb note.md",
     "Inbox/Widersprechen.md",
     "Inbox/Sprechen.md",
-    "Inbox/Widerstehen.md",
     "Inbox/Stehen.md",
     "Inbox/Redewendungen.md",
     "Inbox/Apple-Kinderschutz weist erhebliche Lücken auf.md",
@@ -276,11 +310,6 @@
     "Inbox/zuteilen.md",
     "Inbox/Andauern.md",
     "Inbox/Sich auf etwas acht geben.md",
-    "Inbox/in Fleisch und Blut übergegangen.md",
-    "Templates/Unterricht.md",
-    "Inbox/sich in etwas Acht nehmen.md",
-    "Inbox/sich hüten.md",
-    "Inbox/die Fassade bröckelt.md",
     "Input/Unterrichten",
     "Input/NomenVerbVerbindungen",
     "Inbox",
@@ -289,7 +318,6 @@
     "Templates",
     "Input/Books",
     "Input/Videos",
-    "Input/Verben",
-    "Input"
+    "Input/Verben"
   ]
 }
