@@ -9,7 +9,8 @@ Tags: #moc
 
 [[in Fleisch und Blut übergegangen]]
 [[die Fassade bröckelt]]
-
+[[Rücksicht nehmen auf]]
+[[in Betracht ziehen]]
 
 
 ## References
