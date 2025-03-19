@@ -20,7 +20,8 @@ von der Wirkung zur Ursache
 - durch
 - dank
 - infolge (von)
-- Bedingt durch
+- [[Kausale Präpositionalphrasen#Bedingt durch|Bedingt durch]]
+
 
 ## Bedingt durch
 ### Beispiel
