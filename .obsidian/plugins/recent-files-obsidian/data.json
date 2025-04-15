@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "einarbeiten",
+      "path": "Inbox/einarbeiten.md"
+    },
+    {
+      "basename": "Arbeiten",
+      "path": "Inbox/Arbeiten.md"
+    },
+    {
       "basename": "Redewendungen",
       "path": "Inbox/Redewendungen.md"
     },
@@ -121,10 +129,6 @@
       "path": "Inbox/angeben.md"
     },
     {
-      "basename": "Arbeiten",
-      "path": "Inbox/Arbeiten.md"
-    },
-    {
       "basename": "ausarbeiten",
       "path": "Inbox/ausarbeiten.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Unterricht",
       "path": "Templates/Unterricht.md"
-    },
-    {
-      "basename": "sich in etwas Acht nehmen",
-      "path": "Inbox/sich in etwas Acht nehmen.md"
     }
   ],
   "omittedPaths": [],

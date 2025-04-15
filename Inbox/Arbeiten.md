@@ -26,6 +26,8 @@ Tags:
 [[ausarbeiten]]
 [[überarbeiten]]
 [[bearbeiten]]
+[[einarbeiten]]
+
 
 ## Konjugation
 
