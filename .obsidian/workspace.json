@@ -92,17 +92,17 @@
             }
           },
           {
-            "id": "cdec0d67eb4c8681",
+            "id": "67f86a09097539e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/einarbeiten.md",
+                "file": "Inbox/2025-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "einarbeiten"
+              "title": "2025-06-09"
             }
           }
         ],
@@ -165,12 +165,11 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/sich hüten.md",
+                "file": "Inbox/Für Gespräch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sich hüten"
+              "title": "Backlinks for Für Gespräch"
             }
           },
           {
@@ -209,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Trauen.md",
+                "file": "Inbox/Für Gespräch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trauen"
+              "title": "Outgoing links from Für Gespräch"
             }
           },
           {
@@ -223,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/einarbeiten.md",
+                "file": "Inbox/Für Gespräch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of einarbeiten"
+              "title": "Graph of Für Gespräch"
             }
           },
           {
@@ -273,18 +272,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/sich hüten.md"
+                "file": "Inbox/Für Gespräch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sich hüten"
+              "title": "Outline of Für Gespräch"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,11 +299,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdec0d67eb4c8681",
+  "active": "67f86a09097539e3",
   "lastOpenFiles": [
-    "Inbox/Arbeiten.md",
-    "Inbox/einarbeiten.md",
+    "Inbox/2025-06-08.md",
+    "Inbox/2025-06-09.md",
+    "Inbox/das Vorgehen.md",
+    "Inbox/2025-06-04.md",
+    "Templates/Nomen Note.md",
+    "Inbox/Für Gespräch.md",
+    "Inbox/Taeglicher Plan.md",
+    "Inbox/Untitled.md",
     "Inbox/Redewendungen.md",
+    "Inbox/einarbeiten.md",
+    "Inbox/Stefan.md",
+    "Inbox/Etwas zum Opfer fallen.md",
+    "Inbox/Kausale Präpositionalphrasen.md",
+    "Inbox/Arbeiten.md",
     "Inbox/auf Schritt und tritt.md",
     "Inbox/klipp und klar.md",
     "Inbox/sang und klanglos.md",
@@ -308,22 +322,11 @@
     "Inbox/jenseits von Gut und Böse.md",
     "Inbox/Artikeln.md",
     "Inbox/Aufgeschmissen ohne Starlink.md",
-    "Inbox/Stefan.md",
     "Inbox/beweisen.md",
     "Inbox/das Zugeständnis.md",
-    "Inbox/Kausale Präpositionalphrasen.md",
     "Inbox/Konsekutive Konnektoren.md",
-    "Inbox/Etwas zum Opfer fallen.md",
     "Inbox/Veranschaulichung.md",
-    "Templates/Nomen Note.md",
     "Inbox/Bedingt durch.md",
-    "Templates/Gruppe.md",
-    "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md",
-    "Templates/Verb note.md",
-    "Inbox/Widerstehen.md",
-    "Inbox/aufarbeiten.md",
-    "Inbox/Futur II.md",
-    "Inbox/die Fassade bröckelt.md",
     "Inbox/attachments/Futur II.png",
     "Inbox/attachments",
     "Input/Unterrichten",

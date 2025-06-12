@@ -17,7 +17,7 @@ Tags: #Nomen
 
 
 
-## Synonyme
+## Synonyme und verwandte Begriffe
 
 
 ## References
