@@ -16,6 +16,22 @@ Tags: #moc
 [[sang und klanglos]]
 [[klipp und klar]]
 [[auf Schritt und tritt]]
+[[jemandem im Weg stehen]]
+[[gegen den Strom schwimmen]]
+[[am Puls der Zeit sein]]
+[[jemanden auf dem Laufenden halten]]
+[[sich etwas auf die Fahne schreiben]]
+[[etwas auf Eis legen]]
+[[sich in Szene setzen]]
+[[etwas fuer bare Meunze nehmen]]
+[[einen ausaetzlichen Schritt gehen]]
+[[auf ganzer Linie scheitern oder versagen]]
+
+
+
+
+
+
 
 
 

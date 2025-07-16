@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5bc32b53bd24377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Redewendungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redewendungen"
-            }
-          },
-          {
             "id": "885ed35a69a718e7",
             "type": "leaf",
             "state": {
@@ -92,21 +78,63 @@
             }
           },
           {
-            "id": "67f86a09097539e3",
+            "id": "95e53856abbf7ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2025-06-09.md",
+                "file": "Inbox/2025-07-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-09"
+              "title": "2025-07-13"
+            }
+          },
+          {
+            "id": "93dff9cf0987ed1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input/NomenVerbVerbindungen/Bekannt geben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bekannt geben"
+            }
+          },
+          {
+            "id": "e384d02b96998698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Nomen Verb Verbinungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nomen Verb Verbinungen"
+            }
+          },
+          {
+            "id": "32cf4e5e02851dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/aufs Spiel setzen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aufs Spiel setzen"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -299,34 +327,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67f86a09097539e3",
+  "active": "32cf4e5e02851dfa",
   "lastOpenFiles": [
-    "Inbox/2025-06-08.md",
+    "Inbox/aufs Spiel setzen.md",
+    "Inbox/Nomen Verb Verbinungen.md",
+    "Inbox/in Spiel setzen.md",
+    "Inbox/Redewendungen.md",
+    "Inbox/etwas fuer bare Meunze nehmen.md",
+    "Inbox/jemandem im Weg stehen.md",
+    "Input/NomenVerbVerbindungen/Bekannt geben.md",
+    "Inbox/Stefan.md",
+    "Inbox/2025-07-13.md",
+    "Inbox/2025-07-06.md",
+    "Inbox/2025-07-03.md",
+    "Inbox/sich darauf einlassen.md",
     "Inbox/2025-06-09.md",
-    "Inbox/das Vorgehen.md",
     "Inbox/2025-06-04.md",
+    "Inbox/2025-06-08.md",
+    "Inbox/Etwas zum Opfer fallen.md",
+    "Inbox/Etwas gelöst bekommen.md",
+    "Templates/Gruppe.md",
     "Templates/Nomen Note.md",
+    "Templates/Redewendung Template.md",
+    "Templates/Stam Verb Template.md",
+    "Templates/Unterricht.md",
+    "Templates/Verb note.md",
+    "Inbox/das Vorgehen.md",
     "Inbox/Für Gespräch.md",
     "Inbox/Taeglicher Plan.md",
-    "Inbox/Untitled.md",
-    "Inbox/Redewendungen.md",
-    "Inbox/einarbeiten.md",
-    "Inbox/Stefan.md",
-    "Inbox/Etwas zum Opfer fallen.md",
-    "Inbox/Kausale Präpositionalphrasen.md",
-    "Inbox/Arbeiten.md",
-    "Inbox/auf Schritt und tritt.md",
-    "Inbox/klipp und klar.md",
-    "Inbox/sang und klanglos.md",
-    "Inbox/gut und gern.md",
-    "Inbox/jenseits von Gut und Böse.md",
-    "Inbox/Artikeln.md",
-    "Inbox/Aufgeschmissen ohne Starlink.md",
-    "Inbox/beweisen.md",
-    "Inbox/das Zugeständnis.md",
-    "Inbox/Konsekutive Konnektoren.md",
-    "Inbox/Veranschaulichung.md",
-    "Inbox/Bedingt durch.md",
     "Inbox/attachments/Futur II.png",
     "Inbox/attachments",
     "Input/Unterrichten",

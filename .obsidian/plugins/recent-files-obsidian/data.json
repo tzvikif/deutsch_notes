@@ -1,24 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "aufs Spiel setzen",
+      "path": "Inbox/aufs Spiel setzen.md"
+    },
+    {
+      "basename": "Nomen Verb Verbinungen",
+      "path": "Inbox/Nomen Verb Verbinungen.md"
+    },
+    {
+      "basename": "Redewendungen",
+      "path": "Inbox/Redewendungen.md"
+    },
+    {
+      "basename": "etwas fuer bare Meunze nehmen",
+      "path": "Inbox/etwas fuer bare Meunze nehmen.md"
+    },
+    {
+      "basename": "jemandem im Weg stehen",
+      "path": "Inbox/jemandem im Weg stehen.md"
+    },
+    {
+      "basename": "Bekannt geben",
+      "path": "Input/NomenVerbVerbindungen/Bekannt geben.md"
+    },
+    {
+      "basename": "Stefan",
+      "path": "Inbox/Stefan.md"
+    },
+    {
+      "basename": "2025-07-13",
+      "path": "Inbox/2025-07-13.md"
+    },
+    {
+      "basename": "2025-07-06",
+      "path": "Inbox/2025-07-06.md"
+    },
+    {
+      "basename": "2025-07-03",
+      "path": "Inbox/2025-07-03.md"
+    },
+    {
+      "basename": "sich darauf einlassen",
+      "path": "Inbox/sich darauf einlassen.md"
+    },
+    {
       "basename": "2025-06-09",
       "path": "Inbox/2025-06-09.md"
-    },
-    {
-      "basename": "2025-06-08",
-      "path": "Inbox/2025-06-08.md"
-    },
-    {
-      "basename": "das Vorgehen",
-      "path": "Inbox/das Vorgehen.md"
     },
     {
       "basename": "2025-06-04",
       "path": "Inbox/2025-06-04.md"
     },
     {
+      "basename": "2025-06-08",
+      "path": "Inbox/2025-06-08.md"
+    },
+    {
+      "basename": "Etwas zum Opfer fallen",
+      "path": "Inbox/Etwas zum Opfer fallen.md"
+    },
+    {
+      "basename": "Etwas gelöst bekommen",
+      "path": "Inbox/Etwas gelöst bekommen.md"
+    },
+    {
+      "basename": "Gruppe",
+      "path": "Templates/Gruppe.md"
+    },
+    {
       "basename": "Nomen Note",
       "path": "Templates/Nomen Note.md"
+    },
+    {
+      "basename": "Redewendung Template",
+      "path": "Templates/Redewendung Template.md"
+    },
+    {
+      "basename": "Stam Verb Template",
+      "path": "Templates/Stam Verb Template.md"
+    },
+    {
+      "basename": "Unterricht",
+      "path": "Templates/Unterricht.md"
+    },
+    {
+      "basename": "Verb note",
+      "path": "Templates/Verb note.md"
+    },
+    {
+      "basename": "das Vorgehen",
+      "path": "Inbox/das Vorgehen.md"
     },
     {
       "basename": "Für Gespräch",
@@ -33,20 +105,8 @@
       "path": "Inbox/Untitled.md"
     },
     {
-      "basename": "Redewendungen",
-      "path": "Inbox/Redewendungen.md"
-    },
-    {
       "basename": "einarbeiten",
       "path": "Inbox/einarbeiten.md"
-    },
-    {
-      "basename": "Stefan",
-      "path": "Inbox/Stefan.md"
-    },
-    {
-      "basename": "Etwas zum Opfer fallen",
-      "path": "Inbox/Etwas zum Opfer fallen.md"
     },
     {
       "basename": "Kausale Präpositionalphrasen",
@@ -101,16 +161,8 @@
       "path": "Inbox/Veranschaulichung.md"
     },
     {
-      "basename": "Gruppe",
-      "path": "Templates/Gruppe.md"
-    },
-    {
       "basename": "EU-Gericht stärkt Hotels gegenüber Booking.com",
       "path": "Inbox/EU-Gericht stärkt Hotels gegenüber Booking.com.md"
-    },
-    {
-      "basename": "Verb note",
-      "path": "Templates/Verb note.md"
     },
     {
       "basename": "Widerstehen",
@@ -129,20 +181,12 @@
       "path": "Inbox/die Fassade bröckelt.md"
     },
     {
-      "basename": "Etwas gelöst bekommen",
-      "path": "Inbox/Etwas gelöst bekommen.md"
-    },
-    {
       "basename": "in Betracht ziehen",
       "path": "Inbox/in Betracht ziehen.md"
     },
     {
       "basename": "Rücksicht nehmen auf",
       "path": "Inbox/Rücksicht nehmen auf.md"
-    },
-    {
-      "basename": "Redewendung Template",
-      "path": "Templates/Redewendung Template.md"
     },
     {
       "basename": "Soll man Freunden die eigenen Erfolge verschweigen",
@@ -155,50 +199,6 @@
     {
       "basename": "angeben",
       "path": "Inbox/angeben.md"
-    },
-    {
-      "basename": "ausarbeiten",
-      "path": "Inbox/ausarbeiten.md"
-    },
-    {
-      "basename": "Widersprechen",
-      "path": "Inbox/Widersprechen.md"
-    },
-    {
-      "basename": "Sprechen",
-      "path": "Inbox/Sprechen.md"
-    },
-    {
-      "basename": "Stehen",
-      "path": "Inbox/Stehen.md"
-    },
-    {
-      "basename": "Apple-Kinderschutz weist erhebliche Lücken auf",
-      "path": "Inbox/Apple-Kinderschutz weist erhebliche Lücken auf.md"
-    },
-    {
-      "basename": "Bekannt geben",
-      "path": "Input/NomenVerbVerbindungen/Bekannt geben.md"
-    },
-    {
-      "basename": "einteilen",
-      "path": "Inbox/einteilen.md"
-    },
-    {
-      "basename": "Teilen",
-      "path": "Inbox/Teilen.md"
-    },
-    {
-      "basename": "zerteilen",
-      "path": "Inbox/zerteilen.md"
-    },
-    {
-      "basename": "erteilen",
-      "path": "Inbox/erteilen.md"
-    },
-    {
-      "basename": "mitteilen",
-      "path": "Inbox/mitteilen.md"
     }
   ],
   "omittedPaths": [],
