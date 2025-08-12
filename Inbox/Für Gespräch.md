@@ -43,6 +43,6 @@
 - Ein Richter strebt nach Wahrheit, und ein Anwalt vertritt den Mandanten
 - Der Richter sucht die Wahrheit, während der Anwalt seinen Klienten vertritt
 
- - Seine Rede entblößte seine wahren Absichten.
+ - Seine Rede [[entblößten]] seine wahren Absichten.
 - Ich bekenne mich schuldig, Euer Ehren
 ## References

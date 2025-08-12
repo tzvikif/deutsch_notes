@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Stefan.md",
+                "file": "Inbox/Redewendungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stefan"
+              "title": "Redewendungen"
             }
           },
           {
@@ -36,73 +36,17 @@
             }
           },
           {
-            "id": "61e8d955b57d003f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Kausale Präpositionalphrasen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kausale Präpositionalphrasen"
-            }
-          },
-          {
-            "id": "8e6a2d0cf12714a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/das Zugeständnis.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "das Zugeständnis"
-            }
-          },
-          {
             "id": "8e956077f1e54c87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Redewendungen.md",
+                "file": "Inbox/abstoßend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redewendungen"
-            }
-          },
-          {
-            "id": "95e53856abbf7ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2025-07-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-13"
-            }
-          },
-          {
-            "id": "93dff9cf0987ed1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Input/NomenVerbVerbindungen/Bekannt geben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bekannt geben"
+              "title": "abstoßend"
             }
           },
           {
@@ -111,30 +55,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Nomen Verb Verbinungen.md",
+                "file": "Inbox/reichen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nomen Verb Verbinungen"
+              "title": "reichen"
             }
           },
           {
-            "id": "32cf4e5e02851dfa",
+            "id": "e3e5d8c149613964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/aufs Spiel setzen.md",
+                "file": "Inbox/überbringen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aufs Spiel setzen"
+              "title": "überbringen"
+            }
+          },
+          {
+            "id": "4cb0dbd68879f56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/herablassen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "herablassen"
+            }
+          },
+          {
+            "id": "269e2d5e1d4c44a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Vocabular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabular"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Für Gespräch.md",
+                "file": "Inbox/abstoßend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Für Gespräch"
+              "title": "Outgoing links from abstoßend"
             }
           },
           {
@@ -327,34 +299,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32cf4e5e02851dfa",
+  "active": "8e956077f1e54c87",
   "lastOpenFiles": [
-    "Inbox/aufs Spiel setzen.md",
-    "Inbox/Nomen Verb Verbinungen.md",
-    "Inbox/in Spiel setzen.md",
+    "Inbox/2025-08-10.md",
+    "Inbox/abstoßend.md",
+    "Inbox/abscheulich.md",
+    "Inbox/widerlich.md",
     "Inbox/Redewendungen.md",
-    "Inbox/etwas fuer bare Meunze nehmen.md",
-    "Inbox/jemandem im Weg stehen.md",
-    "Input/NomenVerbVerbindungen/Bekannt geben.md",
-    "Inbox/Stefan.md",
-    "Inbox/2025-07-13.md",
-    "Inbox/2025-07-06.md",
-    "Inbox/2025-07-03.md",
-    "Inbox/sich darauf einlassen.md",
-    "Inbox/2025-06-09.md",
-    "Inbox/2025-06-04.md",
-    "Inbox/2025-06-08.md",
     "Inbox/Etwas zum Opfer fallen.md",
-    "Inbox/Etwas gelöst bekommen.md",
-    "Templates/Gruppe.md",
-    "Templates/Nomen Note.md",
-    "Templates/Redewendung Template.md",
-    "Templates/Stam Verb Template.md",
-    "Templates/Unterricht.md",
-    "Templates/Verb note.md",
-    "Inbox/das Vorgehen.md",
-    "Inbox/Für Gespräch.md",
-    "Inbox/Taeglicher Plan.md",
+    "Inbox/Vocabular.md",
+    "Inbox/herablassen.md",
+    "Inbox/überbringen.md",
+    "Inbox/reichen.md",
+    "Inbox/einfassen.md",
+    "Inbox/gesäumt.md",
+    "Inbox/erahnen.md",
+    "Inbox/bedingt durch.md",
+    "Inbox/2025-08-05.md",
+    "Inbox/entblößten.md",
+    "Inbox/Verbal und Nominalstil.md",
+    "Input/NomenVerbVerbindungen/Bekannt geben.md",
+    "Inbox/2025-07-13.md",
+    "Inbox/2025-08-04.md",
+    "Inbox/aufbrauchen.md",
+    "Inbox/rübergeben.md",
+    "Inbox/2025-07-29.md",
+    "Inbox/2025-07-30.md",
+    "Inbox/sich ins Zeug legen (für).md",
+    "Inbox/jenseits von Gut und Böse.md",
     "Inbox/attachments/Futur II.png",
     "Inbox/attachments",
     "Input/Unterrichten",

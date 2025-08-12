@@ -26,6 +26,16 @@ Tags: #moc
 [[etwas fuer bare Meunze nehmen]]
 [[einen ausaetzlichen Schritt gehen]]
 [[auf ganzer Linie scheitern oder versagen]]
+[[etwas in die hand nehmen]]
+[[sich ins Zeug legen (für)]]
+[[in Stein gemeißelt sein]]
+[[es gibt no Luft nach oben]]
+[[in etwas (sein) Herzblut reinstecken]]
+[[aus allen Woken fallen]]
+[[um jeden Preis]]
+[[zum Zuge kommen]]
+[[auf der hand liegen]]
+[[Feuer und Flamme sein]]
 
 
 
