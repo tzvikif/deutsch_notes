@@ -44,5 +44,11 @@
 - Der Richter sucht die Wahrheit, während der Anwalt seinen Klienten vertritt
 
  - Seine Rede [[entblößten]] seine wahren Absichten.
-- Ich bekenne mich schuldig, Euer Ehren
+	- Ich bekenne mich schuldig, Euer Ehren
+
+אני לא מתכוון לרדת לרמה שלך
+- Ich habe nicht vor, mich auf dein Niveau herabzulassen
+- Ich werde mich nicht auf dein Niveau herablassen
+- So tief lasse ich mich nicht herab
+- Auf so ein Niveau begebe ich mich nicht
 ## References

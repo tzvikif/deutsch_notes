@@ -13,7 +13,7 @@ Tags:
 ### Hinweise
 
 ## Übersicht
-- [[Gruppe#Erste Element|Erste Element]]
+- [[Gruppe Template#Erste Element|Erste Element]]
 - 
 
 ## Erste Element

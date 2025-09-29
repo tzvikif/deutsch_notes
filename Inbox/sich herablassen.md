@@ -4,7 +4,7 @@
 
 Tags: #verb
 
-# herablassen
+# sich herablassen
 
 
 ## Bedeutung 1
@@ -12,10 +12,10 @@ Tags: #verb
 
 ### Hinweise
 
-
+sich auf (Akk) herablassen
 ### Beispiel
 
-
+Ich habe nicht vor, mich auf dein Niveau herabzulassen
 
 ## Synonyme
 

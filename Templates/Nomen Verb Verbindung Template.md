@@ -2,12 +2,12 @@
 {{Date}} {{time}}
 
 
-Tags: #Nomen
+Tags: #nomenverbverbindung 
 
 # {{Title}}
 
 
-## Bedeutung 1
+## Bedeutung
 
 
 ### Hinweise
@@ -17,7 +17,7 @@ Tags: #Nomen
 
 
 
-## Synonyme und verwandte Begriffe
+## Verwandte Begriffe  ([[sinngemäß]])
 
 
 ## References

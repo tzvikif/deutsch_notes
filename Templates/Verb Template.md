@@ -2,12 +2,12 @@
 {{Date}} {{time}}
 
 
-Tags: #redewendung
+Tags: #verb
 
 # {{Title}}
 
 
-## Bedeutung
+## Bedeutung 1
 
 
 ### Hinweise
@@ -17,7 +17,10 @@ Tags: #redewendung
 
 
 
-## Verwandte Begriffe  ([[sinngemäß]])
+## Verwandte Begriffe
+
+
+## Konjugation
 
 
 ## References

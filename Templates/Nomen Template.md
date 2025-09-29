@@ -2,7 +2,7 @@
 {{Date}} {{time}}
 
 
-Tags: #verb
+Tags: #Nomen
 
 # {{Title}}
 
@@ -17,10 +17,7 @@ Tags: #verb
 
 
 
-## Synonyme
-
-
-## Konjugation
+## Verwandte Begriffe
 
 
 ## References

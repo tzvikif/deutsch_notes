@@ -15,7 +15,7 @@ Tags:
 
 
 
-## Synonyme
+## Verwandte Begriffe
 
 
 

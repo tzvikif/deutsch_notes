@@ -6,7 +6,7 @@
 als Folge + Genitiv (der inflation steigen die Preise)
 [[gesäumt]] 
 [[einfassen]]
-[[herablassen]]
+[[sich herablassen]]
 [[beanspruchen]]
 [[zurücksetzen]]
 [[beherzigen]]
@@ -22,6 +22,7 @@ imponieren
 [[dabei bewenden lassen]]
 angewidert anstarren
 begünstigen
+sich mit 
 
 
 

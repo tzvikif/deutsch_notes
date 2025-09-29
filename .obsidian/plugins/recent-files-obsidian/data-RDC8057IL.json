@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Inseln",
-      "path": "Inbox/Inseln.md"
+      "basename": "Für Gespräch",
+      "path": "Inbox/Für Gespräch.md"
     },
     {
-      "basename": "insel_Gespräch",
-      "path": "Inbox/insel_Gespräch.md"
+      "basename": "beruhen auf",
+      "path": "Inbox/beruhen auf.md"
     },
     {
-      "basename": "insel_Israel",
-      "path": "Inbox/insel_Israel.md"
+      "basename": "dabei bewenden lassen",
+      "path": "Inbox/dabei bewenden lassen.md"
+    },
+    {
+      "basename": "Doppelkonnektoren",
+      "path": "Inbox/Doppelkonnektoren.md"
+    },
+    {
+      "basename": "sich berufen auf",
+      "path": "Inbox/sich berufen auf.md"
+    },
+    {
+      "basename": "sich herablassen",
+      "path": "Inbox/sich herablassen.md"
+    },
+    {
+      "basename": "sich stützen auf",
+      "path": "Inbox/sich stützen auf.md"
     },
     {
       "basename": "Vocabular",
@@ -29,10 +45,6 @@
       "path": "Inbox/beherzigen.md"
     },
     {
-      "basename": "dabei bewenden lassen",
-      "path": "Inbox/dabei bewenden lassen.md"
-    },
-    {
       "basename": "abstoßend",
       "path": "Inbox/abstoßend.md"
     },
@@ -43,18 +55,6 @@
     {
       "basename": "überbringen",
       "path": "Inbox/überbringen.md"
-    },
-    {
-      "basename": "beruhen auf",
-      "path": "Inbox/beruhen auf.md"
-    },
-    {
-      "basename": "sich stützen auf",
-      "path": "Inbox/sich stützen auf.md"
-    },
-    {
-      "basename": "sich berufen auf",
-      "path": "Inbox/sich berufen auf.md"
     },
     {
       "basename": "Etwas zum Opfer fallen",
@@ -69,10 +69,6 @@
       "path": "Inbox/im Nachhinein.md"
     },
     {
-      "basename": "Für Gespräch",
-      "path": "Inbox/Für Gespräch.md"
-    },
-    {
       "basename": "entblößten",
       "path": "Inbox/entblößten.md"
     },
@@ -81,20 +77,12 @@
       "path": "Inbox/Temporale Adverbien.md"
     },
     {
-      "basename": "Doppelkonnektoren",
-      "path": "Inbox/Doppelkonnektoren.md"
-    },
-    {
       "basename": "erahnen",
       "path": "Inbox/erahnen.md"
     },
     {
       "basename": "einsehen",
       "path": "Inbox/einsehen.md"
-    },
-    {
-      "basename": "herablassen",
-      "path": "Inbox/herablassen.md"
     },
     {
       "basename": "einfassen",
@@ -199,6 +187,18 @@
     {
       "basename": "2025-07-29",
       "path": "Inbox/2025-07-29.md"
+    },
+    {
+      "basename": "sich ins Zeug legen (für)",
+      "path": "Inbox/sich ins Zeug legen (für).md"
+    },
+    {
+      "basename": "jenseits von Gut und Böse",
+      "path": "Inbox/jenseits von Gut und Böse.md"
+    },
+    {
+      "basename": "Feuer und Flamme sein",
+      "path": "Inbox/Feuer und Flamme sein.md"
     }
   ],
   "omittedPaths": [],
